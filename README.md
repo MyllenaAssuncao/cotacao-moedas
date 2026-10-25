@@ -17,7 +17,7 @@ Aplicativo em **Java** com Swing que busca as **cotações do Dólar, Euro e Bit
 - 🧵 A busca roda em **segundo plano**, então a janela nunca trava
 - ⏱️ Mostra o horário da última atualização
 
-## De onde vêm os dados
+## De onde vem os dados
 
 As cotações vêm da [**AwesomeAPI**](https://docs.awesomeapi.com.br/api-de-moedas) — uma API brasileira, **gratuita e sem necessidade de cadastro ou chave**. O app chama o endereço:
 
