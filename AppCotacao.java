@@ -190,7 +190,7 @@ public class AppCotacao extends JFrame {
             lblVariacao.setBorder(BorderFactory.createEmptyBorder(0, 10, 0, 18));
             add(lblVariacao, BorderLayout.EAST);
         }
-        
+
         void preencher(Moeda m) {
             lblValor.setText(REAIS.format(m.getValor()));
 
