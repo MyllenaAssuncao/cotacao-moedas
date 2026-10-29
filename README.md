@@ -54,6 +54,9 @@ Essa separação (modelo / serviço / interface) deixa o código mais fácil de 
 
 Java 21 · Swing (interface) · `java.net.http.HttpClient` (requisições HTTP) · `SwingWorker` (tarefa em segundo plano) · leitura de JSON feita na mão (**sem bibliotecas externas**).
 
+
+
+
 ---
 
 Feito com ☕ e Java — consumindo dados reais da web.
