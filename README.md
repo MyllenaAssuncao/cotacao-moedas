@@ -57,3 +57,5 @@ Java 21 · Swing (interface) · `java.net.http.HttpClient` (requisições HTTP) 
 ---
 
 Feito com ☕ e Java — consumindo dados reais da web.
+
+
